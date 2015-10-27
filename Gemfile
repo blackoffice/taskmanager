@@ -45,3 +45,6 @@ group :development do
   gem 'spring'
 end
 
+gem "better_errors"
+gem "binding_of_caller"
+
